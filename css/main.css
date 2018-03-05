@@ -1,0 +1,21 @@
+body {
+  background-image: url('../assets/images/clouds.jpg');
+  background-size: cover;
+  background-position: center;
+  /* background-repeat: no-repeat; */
+}
+
+.logo-img {
+  margin: 5% 0;
+  width: 30%
+}
+
+.weather-data {
+  background-color: rgba(0, 0, 0, 0.5);
+  min-height: 300px;
+}
+
+.btn {
+  background-color: #222222;
+  margin: 5% 0;
+}
